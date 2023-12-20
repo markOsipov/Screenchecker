@@ -25,4 +25,6 @@ out/
 /.config/
 /screenchecker_backend/src/main/resources/debug/
 
+.DS_Store
+
 /deploy_*.sh
