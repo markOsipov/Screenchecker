@@ -1,0 +1,28 @@
+.gradle
+build/
+screenchecker_frontend/node_modules/
+
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+gradle
+gradlew
+gradlew.bat
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### VS Code ###
+.vscode/
+/.config/env
+/.config/
+/screenchecker_backend/src/main/resources/debug/
+
+/deploy_*.sh

@@ -1,0 +1,3 @@
+rootProject.name = 'Screenchecker'
+include ':screenchecker_backend'
+
